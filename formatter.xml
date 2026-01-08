@@ -281,5 +281,8 @@
     <setting id="org.eclipse.jdt.core.formatter.insert_space_before_closing_brace_in_array_initializer" value="insert"/>
     <setting id="org.eclipse.jdt.core.formatter.insert_space_after_opening_brace_in_array_initializer" value="insert"/>
 
+    <!-- Import statements -->
+    <setting id="org.eclipse.jdt.core.formatter.organize_imports" value="false"/>
+
   </profile>
 </profiles>
